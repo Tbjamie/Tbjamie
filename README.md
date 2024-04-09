@@ -10,6 +10,8 @@ I am driven to further develop my skills and grow in the field of front-end deve
 
 Let's explore and shape the world of the web together! 🌐💻✨
 
+## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jamietirbeni)
 [![portfolio](https://img.shields.io/badge/🌐Portfolio-8130ff?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.jamietirbeni.com)
 
