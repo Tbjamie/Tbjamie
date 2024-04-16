@@ -18,7 +18,7 @@ Let's explore and shape the world of the web together! 🌐💻✨
 
 ## 🔥 Skills
 
-Since I am a developer as well as a designer I have built a skillset that consists of the following!
+Since I am a developer as well as a designer I have built a skillset that consists of the following:
 
 ### 💻 Programming
 
